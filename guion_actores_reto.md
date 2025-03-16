@@ -6,52 +6,65 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Unas 2 horas.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_reconocimiento_reto_gesteco_ccaa/main/imagenes/portada.jpg)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_actores_reto_gesteco_ccaa/main/imagenes/portada.jpg)
 
 
 
 ## Objetivos 
 
-Esta sesión implica poner en práctica la primera fase para el abordaje de retos socioecológicos complejos. Como casi siempre que empezamos algo en la vida, la primera etapa consiste en familiarizarnos con el asunto y aprender un poco más sobre aspectos temáticos asociados al reto. Así, los objetivos de esta etapa son:
+En esta sesión trabajamos identificando aquellas personas o colectivos que son importantes en el reto socioecológico asignado. Esta fase es fundamental porque nos permitirá conocer los objetivos y necesidades de los actores implicados. Los conflictos socioecológicos surgen, en buena medida, cuando los objetivos y necesidades de los actores son incompatibles entre sí. Desde un punto de vista del aprendizaje, nos planteamos los siguientes objetivos.
 
-- Comprobar que el reto socioecológico propuesto es, en efecto, un problema complejo. 
-- Identificar posibles lagunas de conocimiento científico técnico sobre el reto en cuestión.
-- Esbozar el contexto histórico y actual del problema asignado.
-- Identificar brevemente los factores políticos, económicos y ecológicos que le afectan.
-- Encontrar documentación sobre el problema asinado.
+- Constatar cómo de importante es el factor humano en los retos socioecológicos.
+- Aprender a distinguir entre el mensaje explícito y el implícito de una persona o colectivo involucrado en un reto socioecológico.
+- Explicitar las relaciones entre los distintos actores implicados. 
 
 
 
 ## ¿Cómo lo hacemos? ¿Qué resultados esperamos?
-La metodología para trabajar en esta fase conta de dos etapas diferentes. La primera implica un proceso de evocación del conocimiento ya existente sobre los retos asignados. Esto nos ayudará a colocarnos en el ámbito de la incompetencia consciente. Es decir, nos permitirá identificar qué cosas no sabemos del tema en cuestión y deberíamos saber. La segunda fase consiste en buscar información relevante sobre el problema, bien sea en forma de artículos científicos, informes, imágenes, etc.
+Trabajamos esta fase en Hornachuelos. La actividad consistió en que los miembros de los equipos identificaban los actores clave de su reto socioecológico y asignaban a cada actor los siguientes atributos:
 
-### Debate en grupo para reconocer y contextualizar el problema
++ Nombre del actor.
++ Color en función de la tipología:
+  + Gobierno. Color rosa.
+  + Entidad privada. Color amarillo.
+  + Miembro de la sociedad civil (ONG, por ejemplo). Color verde.
+  + Expertos (técnicos, investigadores, gestores, etc.). Color azul.
++ Tipo de mensaje público que suelen enarbolar con relación al reto socioecológico en cuestión. Este mensaje es el que oimos en los medios de comunicación. Suele darnos una idea de cómo aborda el actor en cuestión los problemas planteados por el reto. Por ejemplo, los ecologistas suelen manifestarse contrarios a casi cualquier actividad extractiva en el medio. El mensaje público está relacionado con las necesidades de "fidelización" del colectivo. Normalmente los actores lanzan mensajes en público que saben que van a ser bien acogidos por los miembros de su "tribu".
++ Tipo de mensaje privado o necesidad no explícita. Este mensaje es más difícil de identificar. Puede que incluso los actores clave no sean capaces de expresar este tipo de mensaje. Se refiere normalemente a las necesidades más profundas con relación al reto en cuestión. Por ejemplo, aunque los habitantes de un pueblo se manifiesten como defensores muy vehementes de la caza, puede que en realidad lo que necesiten es más capacidad de gobernanza sobre sus propios recursos naturales. Para identificar este mensaje tendremos que aventurarnos un poco...
 
-Durante la salida a Hornachuelos dedicamos un rato a que, en debate grupal, se hiciera un trabajo de contextualización del problema. Los grupos trataron de evaluar en qué medida el reto propuesto es o no un problema complejo. Se estudiaron aspectos como el contexto histórico, factores sociales implicados, etc. Cada equipo generó un pequeño texto que resumía los consensos alcanzados. Compartimos ese texto en público. El profesor fue dando ideas sobre cómo mejorar la aproximación. Además, se identificaron posibles carencias que tenía el grupo con relación a cuestiones científicas asociadas al reto asignado. 
+Una vez identificados los actores y consensuados dentro del grupo, procedemos a crear una matriz de interés/influencia. Se trata de una gráfica sencilla (se puede hacer a mano o con Powerpoint) en la que creamos estos dos ejes:
+
++ El eje X muestra el interés del actor en cuestión en el reto asignado. Por ejemplo, el actor "apicultor" tiene un interés medio con relación al reto de la caza mayor en Sierra Morena. Esto hace que haya un punto asociado a ese actor hacia la mitad del eje X de la gráfica.
++ El eje Y mostrará la influencia que tiene el actor en cuestión con relación al reto socioecológico. Por ejemplo, los propietarios de la fincas tienen mucha influencia con relación al reto de sostenibilización de la dehesa.
+
+La gráfica generada nos permitirá visualizar rápidamente el conjunto de actores implicados en nuestro reto. 
+
+Las actividades anteriores se realizan en los siguientes pasos:
+
++ Reflexión individual para identificar los actores clave y asignarles atributos.
++ Puesta en común de los actores identificados dentro del grupo.
++ Agrupación de actores similares para generalizar el mensaje.
++ Plasmación de los resultados obtenidos a un panel digital o analógico. En este sentido recomiendo que uséis Miro (https://miro.com). Si os decantáis por esta o por otra herramienta digital, por favor, compartid el archivo conmigo (fjbonet@gmail.com)
++ Identificar relaciones entre actores mediante flechas en el esquema anterior.
++ Crear la matriz de interés/influencia descrita anteriormente
+
 
 
 > [!TIP] 
-> *El resultado de esta estapa es un texto describiendo y contextualizando el problema. Este texto evolucionará durante el trabajo general. Así que es importante no borrar las sucesivas versiones que se vayan creando. Sugiero que creéis un documento de word en la carpeta del Teams para registrar las versiones de este documento. Indicad la fecha de creación de cada versión.*
-
-
-
-### Búsqueda de información científico-técnica sobre el reto
-
-Los ambientólogos y ambientólogas suelen ser "expertos en generalidades". Este rasgo, que pudiera ser considerado como algo negativo, es un superpoder en un mundo lleno de expertos. Necesitamos generalistas que ayuden a ver el mundo con una mirada integradora y holística. Pero construir esta capacidad requiere mucho estudio y trabajo. Afortunadamente, la información especializada está disponible en internet. Además, hoy día, con la llegada de las IAs, esa información nos resulta más fácilmente digerible.
-
-Esta etapa implica la búsqueda sistemática de información sobre el reto socioecológico asignado. Durará lo que dure el trabajo porque siempre hay información nueva que recopilar y cosas nuevas que aprender. Los miembros de cada grupo tendrán que buscar artículos científicos, informes, publicaciones de periódico, podcast de radio, etc. Todo lo que esté en sus manos para documentarse adecuadamente con relación al problema abordado. 
-
-> [!TIP] 
-> *El resultado de esta estapa es un conjunto de archivos de distinto tipo que contienen documentación relevante para nuestro trabajo. Sugiero que almacenéis esos documentos en una carpeta llamada "documentacion" dentro del OneDrive grupal. También es muy recomendable que alimentéis con estos documentos a la IA que estéis usando como asistente para este trabajo (yo recomiendo Notebook LM.*
+> *En esta etapa tendremos varios resultados. Todos deben de estar accesible en el OneDrive del equipo:*
+>
+> + *Lista de actores identificados con sus características. Esto puede tomar la forma de un texto o, preferiblemente, de una serie de postis en Miro, por ejemplo.*
+> + *Gráfica de interés/influencia, que puede hacerse en Powerpoint, Miro o cualquier otra herramienta.*
+> + *Textos o reflexiones que se hayan dado durante el trabajo.*
 
 
 
 ****
 
-[Aquí](https://github.com/aprendiendo-cosas/P_reconocimiento_reto_gesteco_ccaa/archive/refs/tags/2024_2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+[Aquí](https://github.com/aprendiendo-cosas/P_actores_reto_gesteco_ccaa/archive/refs/tags/2024_2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
 ****
-Haz click [aquí](https://github.com/aprendiendo-cosas/P_reconocimiento_reto_gesteco_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
+Haz click [aquí](https://github.com/aprendiendo-cosas/P_actores_reto_gesteco_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
 
 ****
  <p xmlns:cc="http://creativecommons.org/ns#" >El contenido de este repositorio se puede utilizar bajo la siguiente licencia:  <a  href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"  target="_blank" rel="license noopener noreferrer"  style="display:inline-block;">CC BY-NC-SA 4.0<img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"  alt=""></a></p> 
